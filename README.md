@@ -1,5 +1,7 @@
-# network-sniffer
+# 基于C和QT开发的网络窃听器 network-sniffer
 一个可以监视局域网内指定主机网络的状态、 数据流动情况以及在网络上传输的信息的网络窃听器。a network sniffer
+
+主要涉及：ARP扫描存活主机、ARP中间人攻击、监听数据包并分析其中可能存在的敏感信息。
 
 环境：Ubuntu20.04，QT5，libpcap 具体查看项目报告
 
